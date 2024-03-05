@@ -1,0 +1,7 @@
+# SPDX-FileCopyrightText: 2024 OpenBit Technologies
+# SPDX-FileContributor: Hugo Rodrigues
+#
+# SPDX-License-Identifier: CC0-1.0
+
+# Vim swap files
+*.swp

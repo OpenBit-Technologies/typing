@@ -1,0 +1,19 @@
+/*
+ * SPDX-FileCopyrightText: 2024 OpenBit Technologies
+ * SPDX-FileContributor: Hugo Rodrigues
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
+.typing-effect-fade {
+    transition: opacity 1s ease-in;
+    -webkit-transition: opacity 1s ease-in;
+    -moz-transition: opacity 1s ease-in;
+    -o-transition: opacity 1s ease-in;
+    -ms-transition: opacity 1s ease-in;
+    opacity: 0%;
+}
+
+.typing-effect-fade-active {
+    opacity: 100%;
+}
